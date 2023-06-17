@@ -1,0 +1,73 @@
+body {
+    color: white;
+    background: -webkit-gradient(linear, left top, left bottom, from(#4F26DC), to(#A939E2)) fixed;
+}
+
+.firstSection {
+    display: flex;
+    justify-content: space-around;
+}
+
+.firstSection>div {
+    width: 40%;
+}
+
+.left {
+    margin: 9% 0;
+}
+
+.spcol {
+    color: #ba8bd2;
+}
+
+
+.right {
+    display: flex;
+    justify-content: center;
+}
+
+.right img {
+    margin: 50px 0px;
+    width: 75%;
+}
+
+.secondSection {
+    display: flex;
+    justify-content: center;
+}
+
+.about {
+    width: 70%;
+}
+
+/* .project {
+    display: flex;
+    justify-content: space-around;
+} */
+.card {
+    width: 18rem;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+/* 
+.card button {
+    background-color: rgba(255, 255, 255, 0.8);
+} */
+.contactme {
+    width: 70%;
+}
+
+.social .card {
+    border-style: none;
+    background-color: transparent;
+}
+
+.social .card .card-img-top {
+    width: 70px;
+}
+
+.card-body a {
+    text-decoration: none;
+    color: black;
+}
