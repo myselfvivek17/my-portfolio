@@ -71,3 +71,6 @@ body {
     text-decoration: none;
     color: black;
 }
+ion-icon {
+  color: white;
+}
