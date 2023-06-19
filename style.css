@@ -72,6 +72,11 @@ body {
     text-decoration: none;
     color: white;
 }
+
+#buttona {
+    color: black;
+}
+
 ion-icon {
   color: white;
 }
